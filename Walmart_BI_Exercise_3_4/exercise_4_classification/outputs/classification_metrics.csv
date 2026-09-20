@@ -1,0 +1,2 @@
+Model,Target,Train_Rows,Test_Rows,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Logistic Regression,High_Sales (store-week sales above store median),5148,1287,0.6899766899766899,0.6869158878504673,0.6901408450704225,0.6885245901639344,0.7638236828377674
