@@ -1,0 +1,11 @@
+File,Visual,What It Answers,Purpose
+01_store_performance_avg_weekly_sales.png,Store Performance,Compares average weekly sales of all stores and shows the Exercise 1 network benchmark.,Task 2b / Store comparison
+02_holiday_uplift_by_store.png,Holiday Impact,Shows which stores gain or lose sales during holiday weeks relative to non-holiday weeks and compares with the 7.8% baseline.,KPI / Holiday analysis
+03_slice_2011_store_holiday_heatmap.png,SLICE,Visual representation of the 2011 slice: Year fixed at 2011; Store × Holiday status remains.,Task 2a / Slice
+04_dice_2011_holiday_store_ranking.png,DICE,"Visual representation of the 2011 holiday dice: Year=2011 AND Holiday=Yes, ranked by average holiday sales.",Task 2a / Dice
+05_monthly_sales_trend_hierarchy.png,Hierarchy Trend,Shows monthly roll-up and supports the Year → Month → Week analytical hierarchy.,Task 2a bonus / Task 2b
+06_store_wow_growth.png,WoW Growth,Compares average weekly growth by store and shows the zero-growth reference.,KPI analysis
+07_store_sales_volatility_cv.png,Sales Volatility,Ranks stores by coefficient of variation and shows the Exercise 1 CV baseline.,KPI analysis
+08_unemployment_sensitivity.png,Unemployment Sensitivity,Shows the relationship between store-level sales performance and unemployment correlation.,KPI analysis
+09_fuel_price_sensitivity.png,Fuel Sensitivity,Shows the relationship between store-level sales performance and fuel-price correlation.,KPI analysis
+10_kpi_validation_indexed.png,KPI Validation,Compares Python-calculated network KPI values against Exercise 1 benchmarks on a common indexed scale.,Validation

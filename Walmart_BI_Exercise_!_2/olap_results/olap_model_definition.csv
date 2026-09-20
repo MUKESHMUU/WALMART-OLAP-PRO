@@ -1,0 +1,7 @@
+Component,Definition,Business Meaning
+Business Grain,Store + Week,One store's sales observation for one week
+Primary Measure,Weekly_Sales,Core sales measure used throughout the OLAP analysis
+Dimension 1,Store,Walmart store identifier
+Dimension 2,Date,Date / Year / Month / Week analysis
+Dimension 3,Holiday,Holiday versus non-holiday weekly context
+Hierarchy,Year -> Month -> Week,Used for roll-up and drill-down

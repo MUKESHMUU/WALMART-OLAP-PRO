@@ -1,0 +1,22 @@
+# Exercise 2 Requirements Checklist
+
+- [x] Fact/business event and measures defined
+- [x] At least 3 dimensions defined
+- [x] 2–3 level hierarchy defined
+- [x] Cube built with pandas pivot_table/groupby
+- [x] Cube cross-tabulates multiple dimensions and a measure
+- [x] Slice implemented
+- [x] Dice implemented
+- [x] Optional roll-up/drill-down implemented
+- [x] Slice CSV exported
+- [x] Dice CSV exported
+- [x] Supporting visual outputs generated
+- [x] KPI validation output generated
+- [ ] Power BI dashboard built
+- [ ] At least 4–6 visuals added
+- [ ] At least 2 Exercise 1 KPIs shown directly
+- [ ] At least 2 slicers affecting multiple visuals
+- [ ] Hierarchy drill-down added
+- [ ] .pbix saved
+- [ ] Static dashboard .png/.pdf exported
+- [ ] Final write-up completed

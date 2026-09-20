@@ -1,0 +1,10 @@
+Item,Value
+Input rows,6435
+Input columns,14
+Stores,45
+Date range,2010-02-05 to 2012-10-26
+Cube,Store x Year x Holiday -> Weekly_Sales
+Slice,Year = 2011
+Dice,Year = 2011 AND Holiday = Yes
+Focused Dice,Year = 2011 AND Month = 12 AND Holiday = Yes
+Hierarchy,Year -> Month -> Week
